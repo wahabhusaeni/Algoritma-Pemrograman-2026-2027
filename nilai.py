@@ -59,7 +59,7 @@ print(f"{'Kehadiran %':<15} : {data['kehadiran']}%")
 print("\n====Hasil====")
 print("Nama :", data["nama"])
 print(f"Tugas : {data['tugas']} | UTS : {data['uts']} | UAS : {data['uas']} | Kehadiran : {data['kehadiran']}%")
-print("-"*80)
+print("-"*60)
 
 print(f"{'Nilai Akhir':<15}: {nilai_akhir:.2f}")
 print(f"{'Nilai Huruf':<15}: {grade} {keterangan}")
