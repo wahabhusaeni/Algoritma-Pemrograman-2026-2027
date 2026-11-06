@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
     int umur = 19;
-    double tinggi = 170.5;
+    double tinggi = 160.5;
     char kelas = 'A';
     bool aktif = true;
-    string nama = "Budi";
+    string nama = "wahab";
     const string KAMPUS = "Universitas Djuanda";
 
     cout << "int    : " << umur << endl;
